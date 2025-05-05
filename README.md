@@ -1,11 +1,31 @@
+# Spotify Plan Checker 🎶
+
+## Descripción extendida
+
 Este proyecto permite comprobar el estado de las cuentas de Spotify mediante archivos de cookies, categorizando cada cuenta según su plan (Ej. Premium, Familiar, Estudiante, etc.). Utiliza múltiples hilos para agilizar el proceso y organizar los resultados en directorios por tipo de plan. 🗂️
 
-Funcionalidades principales:
-✨ Verificación de planes: Determina automáticamente el tipo de suscripción de una cuenta (Ej. Premium, Estudiante, Familiar).
-✨ Organización de resultados: Los resultados se guardan en directorios correspondientes a cada tipo de plan.
-✨ Multihilo: Utiliza múltiples hilos (hasta 100) para procesar las cuentas de manera simultánea, mejorando la eficiencia.
-✨ Interfaz amigable: Resultados mostrados en colores y con un banner divertido. 😄
-✨ Sin necesidad de proxies: Todo funciona de manera local, sin necesidad de configurar proxies, ideal para proyectos pequeños o pruebas rápidas.
+### Funcionalidades principales:
+
+✨ **Verificación de planes**: Determina automáticamente el tipo de suscripción de una cuenta (Ej. Premium, Estudiante, Familiar).  
+✨ **Organización de resultados**: Los resultados se guardan en directorios correspondientes a cada tipo de plan.  
+✨ **Multihilo**: Utiliza múltiples hilos (hasta 100) para procesar las cuentas de manera simultánea, mejorando la eficiencia.  
+✨ **Interfaz amigable**: Resultados mostrados en colores y con un banner divertido. 😄  
+✨ **Sin necesidad de proxies**: Todo funciona de manera local, sin necesidad de configurar proxies, ideal para proyectos pequeños o pruebas rápidas.
+
+## Requisitos
+
+Para usar este script, necesitas tener Python 3.7 o superior y las siguientes dependencias:
+
+- `requests`
+- `colorama`
+- `threading`
+- `sys`
+- `concurrent.futures`
+
+Puedes instalar las dependencias usando:
+
+```bash
+pip install requests colorama
 
 ![0F08FE85-3D63-41E3-9320-DC6C5CDF0F4A](https://github.com/user-attachments/assets/9dc2880f-34fa-40e3-babd-1caea54c501f)
 
