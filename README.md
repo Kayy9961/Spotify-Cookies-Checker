@@ -27,7 +27,7 @@ Puedes instalar las dependencias usando:
 ```bash
 pip install requests colorama
 ```
-![0F08FE85-3D63-41E3-9320-DC6C5CDF0F4A](https://github.com/user-attachments/assets/9dc2880f-34fa-40e3-babd-1caea54c501f)
+![{F0B0388C-2CBB-47E7-A847-D59636D6E57C}](https://github.com/user-attachments/assets/d939678c-673e-439e-8b08-8c1c71f8faba)
 
 ![45A6DB42-1C45-4F08-93A4-8D3C8A9C9137](https://github.com/user-attachments/assets/8e1e8829-33e5-4cfd-8f36-d20928e2bfbd)
 
