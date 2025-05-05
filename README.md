@@ -31,4 +31,4 @@ pip install requests colorama
 
 ![45A6DB42-1C45-4F08-93A4-8D3C8A9C9137](https://github.com/user-attachments/assets/8e1e8829-33e5-4cfd-8f36-d20928e2bfbd)
 
-Inspirado en: https://github.com/harshitkamboj/Spotify-Cookie-Checker/blob/main/main.py
+Inspirado en: [https://github.com/harshitkamboj/Spotify-Cookie-Checker/blob/main/main.py](https://github.com/harshitkamboj/Spotify-Cookie-Checker)
